@@ -25,7 +25,6 @@ def is_even_without_return( i ):
 is_even_without_return(3)
 print(is_even_without_return(3) )
 
-# Simple is_even function definition
 def is_even( i ):
     """
     Input: i, a positive int
